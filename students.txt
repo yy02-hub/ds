@@ -1,0 +1,3 @@
+Kim	92
+Lee	87
+Park	75

@@ -1,0 +1,7 @@
+total 16
+-rw-r--r-- 1 youngyi youngyi    9 Sep 24 19:09 README.md
+drwxr-xr-x 2 youngyi youngyi 4096 Sep 24 19:11 data
+drwxr-xr-x 2 youngyi youngyi 4096 Sep 24 19:11 data_backup
+-rw-r--r-- 1 youngyi youngyi    0 Sep 24 19:15 list.txt
+-rw-r--r-- 1 youngyi youngyi    0 Sep 24 19:09 main.py
+-rw-r--r-- 1 youngyi youngyi   22 Sep 24 19:13 students.txt
